@@ -1,0 +1,5 @@
+flask
+gunicorn
+duckduckgo_search
+beautifulsoup4
+requests
